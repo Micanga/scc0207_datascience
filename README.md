@@ -1,0 +1,2 @@
+# scc0207_datascience
+This repository refers to the USP Introduction to Data Science module (code: SCC0275). This module aims to complement the formation of undergraduate students in Computing, maintaining the focus on central concepts and techniques of the Data Science area. The module also intends to introduce theories and methods that enhance the student's knowledge to present solutions to real problems using the studied techniques and tools.
